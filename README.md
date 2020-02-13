@@ -15,11 +15,11 @@ Since this last file is too large to be stored at GitHub, so you must download i
 
 https://drive.google.com/open?id=1xkmTosS4TGqpPnXnj_vj8hZMwYl-gtOd
 
-The images to be classified must be placed in the "New_Images" folder.
+The images to be classified must be placed in the "New_Images" folder. Note that there are already 4 images in the folder in case it is necessary to test the system without new images
 
 Docker must be installed in the local computer to run the algorythm.
 
-Once Docker was installed, these commands should be executed in a command window in the path where the files are located (Notice the last dot in the first command) to build and run the solution:
+Once Docker is installed, these commands should be executed in a command window in the path where the files are located (Notice the last dot in the first command) to build and run the solution:
 
 **docker build -t philipssolution .**
 
