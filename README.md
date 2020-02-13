@@ -22,9 +22,9 @@ Once Docker was installed, these commands should be executed in a command window
 **docker run PhilipsSolution**
 
 The command window will show the results of the analysis.
-
-
-
+ 
+ 
+ 
 *Victor Ramos Vicedo*
 
 victorramos7@gmail.com
