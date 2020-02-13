@@ -25,6 +25,6 @@ The command window will show the results of the analysis.
  
 -----------------------
  
-*Victor Ramos Vicedo*
+*Víctor Ramos Vicedo*
 
 victorramos7@gmail.com
