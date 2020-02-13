@@ -11,7 +11,7 @@ To run the algorythm, these files and folder should be downloaded and placed in 
 
 **-Philips_model_v.3.7.h5**
 
-Since this last file is too large to be stored at GitHub, so you must download it from this Google Drive path:
+Since this last file is too large to be stored at GitHub, you must download it from this Google Drive path:
 
 https://drive.google.com/open?id=1xkmTosS4TGqpPnXnj_vj8hZMwYl-gtOd
 
