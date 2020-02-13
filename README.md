@@ -28,6 +28,7 @@ Once Docker is installed, these commands should be executed in a command window 
 The algorythm will analyze every image in the New_Images folder and will give a result for each one with a single execution
  
 For any doubt, you can contact me through my e-mail below.
+
 -----------------------
  
 *Víctor Ramos Vicedo*
