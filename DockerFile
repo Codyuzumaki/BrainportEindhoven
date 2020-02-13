@@ -1,0 +1,23 @@
+FROM tensorflow/tensorflow
+
+RUN mkdir c:\home\Philips
+
+RUN apt-get update
+
+RUN apt-get install -y libsm6 libxext6 libxrender-dev
+
+RUN pip install opencv-python
+
+RUN pip install numpy
+
+RUN pip install matplotlib
+
+RUN pip install pillow
+
+COPY Philips_Product_Analyzer.py /home/Philips/Philips_Product_Analyzer.py
+
+COPY Philips_model_v.3.7.h5 /home/Philips/Philips_model_v.3.7.h5
+
+COPY New_Images /home/Philips/New_Images
+
+CMD python /home/Philips/Philips_Product_Analyzer.py
