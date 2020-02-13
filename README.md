@@ -15,6 +15,6 @@ Once Docker was installed, this commands should be executed in a command window 
 
 **docker build -t PhilipsSolution .**
 
-**docker run PhilipsSolution **
+**docker run PhilipsSolution**
 
 The command window will show the results of the analysis.
