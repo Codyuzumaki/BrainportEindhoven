@@ -2,9 +2,13 @@
 This repo contains a solution to clasify some Philips products among 4 clases.
 
 To run the algorythm, these files and folder should be in the same folder:
+
 -DockerFile
+
 -Philips_model_v.3.7.h5
+
 -Philips_Product_Analyzer.py
+
 -New_Images (folder)
 
 The images to be classified must be placed in the "New_Images" folder.
