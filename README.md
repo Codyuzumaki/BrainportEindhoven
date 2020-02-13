@@ -23,6 +23,8 @@ Once Docker was installed, these commands should be executed in a command window
 
 The command window will show the results of the analysis.
 
-Victor Ramos Vicedo
+
+
+*Victor Ramos Vicedo*
 
 victorramos7@gmail.com
