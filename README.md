@@ -21,9 +21,9 @@ Docker must be installed in the local computer to run the algorythm.
 
 Once Docker was installed, these commands should be executed in a command window in the path where the files are located (Notice the last dot in the first command) to build and run the solution:
 
-**docker build -t PhilipsSolution .**
+**docker build -t philipssolution .**
 
-**docker run PhilipsSolution**
+**docker run philipssolution**
 
 The command window will show the results of the analysis.
  
