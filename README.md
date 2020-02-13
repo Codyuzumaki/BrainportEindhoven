@@ -25,7 +25,7 @@ Once Docker was installed, these commands should be executed in a command window
 
 **docker run philipssolution**
 
-The command window will show the results of the analysis.
+The algorythm will analyze every image in the New_Images folder and will give a result for each one with a single execution
  
 -----------------------
  
