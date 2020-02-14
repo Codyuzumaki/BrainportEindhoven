@@ -23,7 +23,7 @@ Docker must be installed in the local computer to run the algorythm.
 
 Once Docker is installed and running, you should run the Run_Analyzer.bat file. A command window will appear and the configuration of the environment will start. Immediately after the configuration ends, the classificator will automatically start to analyze every image in the New_Images folder and will give a result for each one with a single execution.
 
-Alternatively to this .bat file, you can run these below commands in a command window in the path where the files are located (Notice the last dot in the first command) to build and run the solution:
+As an alternative to this .bat file, you can run these below commands in a command window in the path where the files are located (Notice the last dot in the first command) to build and run the solution:
 
 **docker build -t philipssolution .**
 
