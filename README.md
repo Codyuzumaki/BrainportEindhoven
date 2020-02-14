@@ -17,7 +17,9 @@ Since this last file is too large to be stored at GitHub, you must download it f
 
 https://drive.google.com/open?id=1xkmTosS4TGqpPnXnj_vj8hZMwYl-gtOd
 
-The images to be classified must be placed in the "New_Images" folder. Note that there are already 4 images in the folder in case it is necessary to test the system without new images. You can remove them before starting a new test
+The images to be classified must be placed in the "New_Images" folder. Note that there are already 4 images in the folder in case it is necessary to test the system without new images. You can remove them before starting a new test.
+
+The images can be of any size, buy the algorithm was optimized to work with 4032x3024 images.
 
 Docker must be installed in the local computer to run the algorythm.
 
