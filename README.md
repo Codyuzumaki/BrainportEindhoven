@@ -1,4 +1,4 @@
-# BrainportEindhoven
+# Brainport Eindhoven
 This repo contains a solution to clasify some Philips products among 4 clases.
 
 To run the algorythm, these files and folder should be downloaded and placed in the same folder:
