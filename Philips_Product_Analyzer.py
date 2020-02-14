@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """Philips_Item_Detection
 Algorithm to clasify several Philips product images related to Brainport Eindhoven competition.
 
@@ -76,7 +76,8 @@ Resultado=Res.argmax(1)
 print(' ')
 print('---------------------------------------')
 print(' ')
-
+print('IMAGE \t\t-\t RESULT')
+print(' ')
 for i in range(Xn.shape[0]):
   im=listImages[i]
   print(im[:-4] + '\t-\t' + Dict.get(Resultado[i]))
