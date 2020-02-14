@@ -3,6 +3,7 @@ This repo contains a solution to clasify some Philips products among 4 clases.
 
 To run the algorythm, these files and folder should be downloaded and placed in the same folder:
 
+
 **-DockerFile**
 
 **-Philips_Product_Analyzer.py**
@@ -12,6 +13,7 @@ To run the algorythm, these files and folder should be downloaded and placed in 
 **-New_Images (folder)**
 
 **-Philips_model_v.3.7.h5**
+
 
 Since this last file is too large to be stored at GitHub, you must download it from this Google Drive path:
 
@@ -27,9 +29,11 @@ Once Docker is installed and running, you should run the Run_Analyzer.bat file. 
 
 As an alternative to this .bat file, you can run these below commands in a command window in the path where the files are located (Notice the last dot in the first command) to build and run the solution:
 
+
 **docker build -t philipssolution .**
 
 **docker run philipssolution**
+ 
  
 For any doubt, you can contact me through my e-mail below.
 
