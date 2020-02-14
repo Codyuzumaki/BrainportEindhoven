@@ -7,7 +7,7 @@ To run the algorythm, these files and folder should be downloaded and placed in 
 
 **-Philips_Product_Analyzer.py**
 
-**-Run Analyzer.bat
+**-Run Analyzer.bat**
 
 **-New_Images (folder)**
 
