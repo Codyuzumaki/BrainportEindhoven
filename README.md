@@ -1,21 +1,9 @@
 # Brainport Eindhoven Tech Xperience 2020
 This repo contains a solution to clasify some Philips products among 4 clases.
 
-To run the algorythm, these files and folder should be downloaded and placed in the same folder:
+To run the algorythm, you must download and unzip the BrainportEindhovenPhilips.zip file:
 
-
-**-DockerFile**
-
-**-Philips_Product_Analyzer.py**
-
-**-Run_Analyzer.bat**
-
-**-New_Images (folder)**
-
-**-Philips_model_v.3.7.h5**
-
-
-Since this last file is too large to be stored at GitHub, you must download it from this Google Drive path:
+Since the convolutional network weights file is too large to be stored at GitHub, you must download it from this Google Drive path and place it in the uncompressed:
 
 https://drive.google.com/open?id=1xkmTosS4TGqpPnXnj_vj8hZMwYl-gtOd
 
