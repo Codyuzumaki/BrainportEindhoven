@@ -12,7 +12,7 @@ Then, download the Model file from the following google drive link, uncompress i
 
 https://drive.google.com/open?id=15ATooVcqTzuEnn_KdHjK8h8G7Hv1gh2Y
 
-To unzip the files, you must use the password that was provided to you. If you don't have the password or you've forgotten it, please request it to me by mail: **victorramos7@gmail.com**
+To unzip the files, you must use the password that was provided to you. If you don't have the password or you've forgotten it, please ask me by mail: **victorramos7@gmail.com**
 
 The images to be classified must be placed in the "New_Images" folder. Note that there are already 4 images in the folder in case it is necessary to test the system without new images. You can remove them before starting a new test.
 
