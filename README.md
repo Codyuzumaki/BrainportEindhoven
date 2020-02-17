@@ -8,7 +8,7 @@ Since the model file is too heavy to store it in GitHub, there are 2 options to 
   https://drive.google.com/open?id=1NaJoQHsw2a-gkWiNYHh1kXpf1vjxX_CC
 
 **OPTION 2:** Download the BrainportEindhovenVictorRamosWithoutModel.zip file from this repo and uncompress it.
-Then, download the Model file from the following google drive link, uncompress it and place the file *Philips_model_v.3.7.h5* into the *BrainportEindhovenVictorRamosWithoutModel* folder:
+Then, download the Model file from the following google drive link, uncompress it and place the file *Philips_model_v.3.7.h5* into the folder where you uncompressed the *BrainportEindhovenVictorRamosWithoutModel.zip* file:
 
 https://drive.google.com/open?id=15ATooVcqTzuEnn_KdHjK8h8G7Hv1gh2Y
 
