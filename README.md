@@ -3,16 +3,16 @@ This repo contains a solution to clasify some Philips products among 4 clases.
 
 Since the model file is too heavy to store it in GitHub, there are 2 options to get the solution:
 
-**OPTION 1:** Download the zip with the whole solution from this google drive link and uncompress it:
+**OPTION 1:** Download the zip with the whole solution from this google drive link and unzip it:
 
   https://drive.google.com/open?id=1NaJoQHsw2a-gkWiNYHh1kXpf1vjxX_CC
 
-**OPTION 2:** Download the BrainportEindhovenVictorRamosWithoutModel.zip file from this repo and uncompress it.
-Then, download the Model file from the following google drive link, uncompress it and place the file *Philips_model_v.3.7.h5* into the folder where you uncompressed the *BrainportEindhovenVictorRamosWithoutModel.zip* file:
+**OPTION 2:** Download the BrainportEindhovenVictorRamosWithoutModel.zip file from this repo and unzip it.
+Then, download the Model file from the following google drive link, uncompress it and place the file *Philips_model_v.3.7.h5* into the folder where you unzipped the *BrainportEindhovenVictorRamosWithoutModel.zip* file:
 
 https://drive.google.com/open?id=15ATooVcqTzuEnn_KdHjK8h8G7Hv1gh2Y
 
-To uncompress the files, you must request me the password by mail: **victorramos7@gmail.com**
+To unzip the files, you must use the password that was provided to you. If you don't have the password or you've forgotten it, please request it to me by mail: **victorramos7@gmail.com**
 
 The images to be classified must be placed in the "New_Images" folder. Note that there are already 4 images in the folder in case it is necessary to test the system without new images. You can remove them before starting a new test.
 
