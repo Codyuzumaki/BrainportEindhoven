@@ -2,7 +2,9 @@
 This repo contains a solution to clasify some Philips products among 4 clases.
 
 You have 2 options to get the solution:
+
 **OPTION 1:**
+
   Download the zip with the whole solution from this google drive link:
 
   https://drive.google.com/open?id=1NaJoQHsw2a-gkWiNYHh1kXpf1vjxX_CC
@@ -11,7 +13,7 @@ To run the algorythm, you must download and unzip the BrainportEindhovenPhilipsW
 
 Since the convolutional network weights file is too large to be stored at GitHub, you must download it from a Google Drive link, extract it and place it in the uncompressed "BrainportEindhovenPhilipsWithoutModel" folder:
 
-https://drive.google.com/open?id=1xkmTosS4TGqpPnXnj_vj8hZMwYl-gtOd
+https://drive.google.com/open?id=15ATooVcqTzuEnn_KdHjK8h8G7Hv1gh2Y
 
 As an alternative, you can download the zip with all the files including the network weights from this link:
 
